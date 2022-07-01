@@ -1,1 +1,30 @@
-hi hello
+hi hello 
+this is hemanth
+
+Git Commands:
+===========
+for clone the project :
+
+git clone "URL"
+
+------------------
+For check current bracn name :
+
+git branch 
+
+------------------
+after changes made check local changes to be made :
+
+git status ---2 file are modified 
+
+git commit -m "descrption of changes "
+
+git push    - to push changes to git 
+
+---------------------------
+to change branch to other branch 
+
+git checkout Newbranchname 
+git branch 
+
+------------------
